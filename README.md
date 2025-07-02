@@ -22,4 +22,11 @@ I built this interactive dashboard to explore how different types of workouts â€
 
 ---
 
-This project is part of my portfolio as I transition into data analysis. Feedback is welcome!
+This project is part of my data analytics portfolio as I transition into the field.
+It showcases my ability to:
+- Work with structured datasets
+- Use BI tools to extract meaningful trends
+- Tell a visual story with health-related data
+
+  **Feedback is always welcome!**
+  
